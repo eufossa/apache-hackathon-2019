@@ -19,6 +19,8 @@ The participants worked on different activities, not only coding but also reflec
 
 See the different topics that have been worked on:
 
+* [Karaf](achievements/karaf.md)
 * [PLC4X](achievements/plc4x.md)
 * [Singa](achievements/singa.md)
+* [SpamAssassin](achievements/spamassassin.md)
 * [Tomcat](achievements/tomcat.md)
