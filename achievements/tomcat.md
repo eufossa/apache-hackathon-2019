@@ -10,3 +10,9 @@ Compiling GraalVM from source turned out to be a little bit tricky, because it d
 
 ## Community and Builds
 The team instructed a few attendees on how to build Apache Tomcat from source either from q git-checkout or from a release package. Also gave instructions for forking on GitHub for future hacking and pull-requests.
+
+## Fixes
+
+One enhancement request was completed fixed.
+
+One new bug was filed.
