@@ -9,3 +9,5 @@ Compiling GraalVM from source turned out to be a little bit tricky, because it d
 
 * [https://github.com/ventura-eesc/GraalVM-Tomcat](https://github.com/ventura-eesc/GraalVM-Tomcat)
 * [https://github.com/ventura-eesc/tomcat-contributions](https://github.com/ventura-eesc/tomcat-contributions)
+* [https://github.com/ventura-eesc/gpg-signature-guide](https://github.com/ventura-eesc/gpg-signature-guide)
+
