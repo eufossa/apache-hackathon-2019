@@ -24,3 +24,4 @@ See the different topics that have been worked on:
 * [Singa](achievements/singa.md)
 * [SpamAssassin](achievements/spamassassin.md)
 * [Tomcat](achievements/tomcat.md)
+* [PGP key signing](achievements/pgpkeysigning.md)
