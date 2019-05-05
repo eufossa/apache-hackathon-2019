@@ -6,3 +6,5 @@ Most of the people at the Tomcat table got interested in getting Tomcat to run o
 Because we already knew that Tomcat would not run with the latest published version of GraalVM, we started with compiling the master branch of GraalVM from Github. There is a commit in master just done a few days before the event that should fix some issues that appeared before.
 
 Compiling GraalVM from source turned out to be a little bit tricky, because it did not compile with a regular version of the Java VM but required a special JVM.
+
+To use we have a work in progress: see https://github.com/ventura-eesc/GraalVM-Tomcat
