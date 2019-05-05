@@ -27,4 +27,4 @@ See the different topics that have been worked on:
 
 ## Further reading
 
-[Observations on the Apache community](theapacheway.md)
+* [Observations on the Apache community](theapacheway.md)
