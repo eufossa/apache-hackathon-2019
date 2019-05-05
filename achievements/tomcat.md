@@ -6,3 +6,9 @@ Most of the people at the Tomcat table got interested in getting Tomcat to run o
 Because we already knew that Tomcat would not run with the latest published version of GraalVM, we started with compiling the master branch of GraalVM from Github. There is a commit in master just done a few days before the event that should fix some issues that appeared before.
 
 Compiling GraalVM from source turned out to be a little bit tricky, because it did not compile with a regular version of the Java VM but required a special JVM.
+
+Progress on Tomcat Graal support overall (documentation, process, use of native-image and utilities, compatibility issues in Tomcat), with a lof more work ahead.
+
+Add feature for directory listing sorting.
+
+Work on ongoing Tomcat releases and testsuite issues.
