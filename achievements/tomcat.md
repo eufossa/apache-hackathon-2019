@@ -9,7 +9,7 @@ Because we already knew that Tomcat would not run with the latest published vers
 Compiling GraalVM from source turned out to be a little bit tricky, because it did not compile with a regular version of the Java VM but required a special JVM.
 
 ## Community and Builds
-The team instructed a few attendees on how to build Apache Tomcat from source either from checkout-oput the code from git or from a release package. Also gave instructions for forking the project on GitHub for future hacking and pull-requests.
+The team instructed a few attendees on how to build Apache Tomcat from source either from checking-out the code from git or from a release package. Also gave instructions for forking the project on GitHub for future hacking and pull-requests.
 
 ## Fixes
 
