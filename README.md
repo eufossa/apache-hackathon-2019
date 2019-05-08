@@ -26,3 +26,8 @@ See the different topics that have been worked on:
 * [Tomcat](achievements/tomcat.md)
 * [PGP Key Signing](achievements/keysigning.md)
 
+=======
+
+## Further reading
+
+* [Observations on the Apache community](theapacheway.md)
