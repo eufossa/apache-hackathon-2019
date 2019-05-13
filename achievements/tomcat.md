@@ -9,11 +9,17 @@ Compiling GraalVM from source turned out to be a little bit tricky, because it d
 
 Progress was made on Tomcat support for Graal (documentation, process, use of native-image and utilities, compatibility issues in Tomcat), with a lot more work ahead. The Tomcat container ready packaging is not too far from running in a basic configuration.
 
-Add feature for directory listing sorting.
+## Tasks
 
-Work on testing and voting for new Tomcat releases (9.0.20 and 8.5.41).
+* Add feature for directory listing sorting
+* Work on testing and voting for new Tomcat releases (9.0.20 and 8.5.41)
+* Work on testsuite issues:
+  * HTTP/2 input data corruption issue with asynchronous IO
+  * incorrect HTTP/2 timeout problem following CVE fix
+  * i18n missing causing failures
 
-Work on testsuite issues:
-- HTTP/2 input data corruption issue with asynchronous IO
-- incorrect HTTP/2 timeout problem following CVE fix
-- i18n missing causing failures
+## More information
+
+* [https://github.com/ventura-eesc/GraalVM-Tomcat](https://github.com/ventura-eesc/GraalVM-Tomcat)
+* [https://github.com/ventura-eesc/tomcat-contributions](https://github.com/ventura-eesc/tomcat-contributions)
+* [https://github.com/ventura-eesc/gpg-signature-guide](https://github.com/ventura-eesc/gpg-signature-guide)
