@@ -29,3 +29,8 @@ See the different topics that have been worked on:
 ## Further reading
 
 * [Observations on the Apache community](theapacheway.md)
+* [Experiencing an Hackathon organised by the European Union](https://medium.com/merzlabs/fosshackathon-experienece-38d775e77198)
+
+## Event contributors
+
+<p align="center"><img src="./assets/group-photo.jpg"/></p>
